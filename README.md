@@ -2,10 +2,10 @@
 
 ## A simple App allow user to create a room and chat
 ### Some functionalities
-1. User can chatting in the room
+1. User can chat in the room
 2. User can share their location 
 3. Show list of users in the room at the side-bar
-4. Auto sending Welcome message, New User Joining message, and User disconnect message 
+4. Auto sending welcome message, new user joining message, and user disconnect message 
 
 ### Basic UI of the app
 <p float="left">
@@ -21,7 +21,8 @@
 2. Use socket to emit event for real-time chatting
 3. Use maustache cdn to render template in client side
 4. Use moment.js cdn to manipulate time
-5. use qs cdn to parse query string in client side
+5. Use qs cdn to parse query string in client side
+6. Deploy using Heroku on https://kaiyi-chat-room-app.herokuapp.com/
 
 
 ## Step to run the code locally
