@@ -7,8 +7,7 @@
 </p>
 
 ## Structure of the code
-<img src="">
-
+<img src="https://user-images.githubusercontent.com/35439849/102966658-4b0d3880-452b-11eb-92e6-bf2503c7c907.png">
 
 ## Basic implement in the code
 
