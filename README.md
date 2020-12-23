@@ -28,4 +28,8 @@
 ## Step to run the code locally
 1. Clone the project
 2. cd to chat-app directory, run `npm run start`
-3. If you wish to auto restart will you save changes on the code, run `npm run dev` instead
+3. In your browser, go to localhost:3000
+4. Join with a username and room name
+5. Open another brwoser, repeat step 3 and 4 with another username
+6. Start chatting
+7. If you wish to auto restart will you save changes on the code, run `npm run dev` instead
