@@ -32,4 +32,4 @@
 4. Join with a username and room name
 5. Open another brwoser, repeat step 3 and 4 with another username
 6. Start chatting
-7. If you wish to auto restart will you save changes on the code, run `npm run dev` instead
+7. If you wish to auto restart when you save changes on the code, run `npm run dev` instead
