@@ -1,6 +1,5 @@
 # Chat-Room-App
 
-## A simple App allow user to create a room and chat
 ### Some functionalities
 1. User can chat in the room
 2. User can share their location 
